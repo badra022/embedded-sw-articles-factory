@@ -1,0 +1,7 @@
+[book]
+title = "SBE451 Software Engineering"
+authors = ["Mostafa Essam", "Ahmed Mohamed", "Ramadan Ibrahem"]
+language = "en"
+multilingual = false
+src = "Lectures"
+create-missing = false
