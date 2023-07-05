@@ -1,7 +1,7 @@
 [book]
-title = "SBE451 Software Engineering"
-authors = ["Mostafa Essam", "Ahmed Mohamed", "Ramadan Ibrahem"]
+title = "Embedded Software Engineering"
+authors = ["Ahmed Badra"]
 language = "en"
 multilingual = false
-src = "Lectures"
+src = "Articles"
 create-missing = false
